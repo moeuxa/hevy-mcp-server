@@ -10,6 +10,7 @@
 	"compatibility_flags": [
 		"nodejs_compat"
 	],
+	"workers_dev": true,
 	/*"limits": {
 		"cpu_ms": 50
 	},*/
@@ -42,18 +43,8 @@
       "binding": "OAUTH_KV",
       "id": "cfcd11cccc4840abb2100c04c91e3b10"
     }
-  ]
-,
-	/**
-	 * Production Routes
-	 * Custom domain configuration for production deployment
-	 */
-	"routes": [
-		{
-			"pattern": "hevy.tomt.it",
-			"custom_domain": true
-		}
-	],
+  ],
+	
 	/**
 	 * Development Environment
 	 * Overrides for local development to avoid Host header rewriting
