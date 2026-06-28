@@ -36,12 +36,14 @@
 	 * KV Namespaces - Production
 	 * Stores encrypted user API keys for multi-user OAuth support
 	 */
-	"kv_namespaces": [
-		{
-			"binding": "OAUTH_KV",
-			"id": "c449b150e27b4ed6a7f958e81495da16"
-		}
-	],
+	
+  "kv_namespaces": [
+    {
+      "binding": "OAUTH_KV",
+      "id": "cfcd11cccc4840abb2100c04c91e3b10"
+    }
+  ]
+,
 	/**
 	 * Production Routes
 	 * Custom domain configuration for production deployment
