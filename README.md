@@ -308,4 +308,4 @@ npm test
 
 Unlicense - see [LICENSE](LICENSE) file for details.
 
-This project is not affiliated with Hevy. Hevy is a trademark of Hevy Studios Inc.
+This project is not affiliated with Hevy. Hevy is a trademark of Hevy Studios Inc. 
